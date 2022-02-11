@@ -2,6 +2,8 @@
 
 Creando componentes funcionales con react
 
+*Ejercicio: Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”*
+
 ## Como probar este proyecto
 
 Para probar este proyecto recuerda clonarlo y seguir los siguientes pasos:
