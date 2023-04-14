@@ -1,6 +1,6 @@
 # React - Ejercicio 1
 
-Creando componentes funcionales con react
+## Creando componentes con react
 
 *Ejercicio: Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”*
 
@@ -8,9 +8,12 @@ Creando componentes funcionales con react
 
 Para probar este proyecto recuerda clonarlo y seguir los siguientes pasos:
 
-1. `npm install` para instalar las dependencias
-1. `npm start` para comenzar a ejecutar el proyecto en modo desarrollo
+```
+npm install //para instalar las dependencias
+npm run dev //para comenzar a ejecutar el proyecto en modo desarrollo
+```
+
 
 ___
 
-Made with ❤️ by [Emilse Arias](https://github.com/earias08)
+Made with ❤️ by [Emilse Arias](https://github.com/earias08) - Rolling Code School
